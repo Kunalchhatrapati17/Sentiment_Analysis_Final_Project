@@ -9,7 +9,7 @@ We are going to use different Technologies such as Python, Amazon Web Services(A
 
 # Technologies Used:-
 Programming Language- Python
-// Amazon Web Service(AWS)
+Amazon Web Service(AWS)
 1. S3(Storage Service)
 2. Atherna
 3. Crawler
